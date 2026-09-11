@@ -1,0 +1,3 @@
+data_prep/raw_data_reference_only/
+__pycache__/
+*.pyc

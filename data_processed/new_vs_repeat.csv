@@ -1,0 +1,3 @@
+customer_type,customers,orders,revenue,avg_order_value,revenue_per_customer
+New,31696,31696,1900271.71,59.95,59.95
+Repeat,591,617,38238.04,61.97,64.7
