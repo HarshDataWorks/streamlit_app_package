@@ -4,7 +4,7 @@ An end-to-end analytics project for a fictional e-commerce startup selling stuff
 animal toys — built to give the CEO a data-driven growth story for investors, and
 regular dashboards for her marketing and website teams.
 
-**🔗 Live App:** _add your Streamlit link here after deployment_
+**🔗 Live App:** https://appapppackage-gndytbqwoub9gak6kmu5x9.streamlit.app/
 
 ---
 
